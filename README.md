@@ -1,1 +1,1 @@
-## Please refer to the README.md file in CRUS main.
+## Please refer to the README.md file in CRUS-main.
